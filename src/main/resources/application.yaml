@@ -3,4 +3,4 @@ spring:
     name: springboot_fm_example
 
 rox:
-  key: "<YOUR-SDK-KEY>"
+  key: "a72c4e15-ced6-42ad-b241-2cd0cf95d504"
